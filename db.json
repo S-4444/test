@@ -1,0 +1,19 @@
+{
+    "superheroes" : [
+        {
+            "id": 1,
+            "name" : "Iron Man",
+            "power" : "Brain"
+        },
+        {
+            "id": 2,
+            "name" : "Thor",
+            "power" : "Asgurd"
+        },
+        {
+            "id": 3,
+            "name" : "America",
+            "power" : "Shiled"
+        }
+    ]
+}
